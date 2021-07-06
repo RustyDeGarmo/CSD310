@@ -53,6 +53,7 @@ for thing in output:
 
 #pause the window to view output
 input("\n\nPress any key to continue... ")
+print()
 
 #close up shop
 db.close()
